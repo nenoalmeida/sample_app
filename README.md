@@ -1,5 +1,8 @@
 # Ruby on Rails Tutorial sample application
 
+
+![alt tag](https://codeship.com/projects/61fdd640-7172-0134-d1a4-4aa32a10a3f8/status?branch=master)
+
 This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
